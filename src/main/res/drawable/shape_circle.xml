@@ -1,0 +1,5 @@
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorButtonLight"/>
+    <corners android:radius="@dimen/image_size"/>
+    <stroke android:width="@dimen/divider" android:color="@color/colorButtonLight"/>
+</shape>

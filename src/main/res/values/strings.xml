@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_place">Place</string>
+    <string name="text_menu">Menu</string>
+    <string name="text_share">Bagikan</string>
+    <string name="text_report">Laporkan</string>
+    <string name="empty"> </string>
+    <string name="text_polling_pada">Polling pada tanggal</string>
+    <string name="text_poling">Polling</string>
+    <string name="text_pemilih">Pemilih</string>
+    <string name="text_ulasan">Ulasan</string>
+    <string name="text_plus_ulasan">+ Tambah Ulasan</string>
+</resources>
